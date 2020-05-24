@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wrapper | N. Cellier</title>
+    <link>https://celliern.github.io/tag/wrapper/</link>
+      <atom:link href="https://celliern.github.io/tag/wrapper/index.xml" rel="self" type="application/rss+xml" />
+    <description>wrapper</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr-fr</language><lastBuildDate>Sun, 24 May 2020 12:13:48 +0200</lastBuildDate>
+    <image>
+      <url>https://celliern.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>wrapper</title>
+      <link>https://celliern.github.io/tag/wrapper/</link>
+    </image>
+    
+    <item>
+      <title>Eplus Wrapper</title>
+      <link>https://celliern.github.io/project/eplus-wrapper/</link>
+      <pubDate>Sun, 24 May 2020 12:13:48 +0200</pubDate>
+      <guid>https://celliern.github.io/project/eplus-wrapper/</guid>
+      <description>&lt;p&gt;Energy Plus est un logiciel de simulation dynamique du bâtiment, capable de prendre en compte les phénomènes thermique, hydrique et aérolique prenant place dans un habitat. Il donne accès à une résolution temporelle à l&amp;rsquo;échelle de quelques jours, mois ou même années. C&amp;rsquo;est un outil précieux permettant d&amp;rsquo;affiner notre compréhension du comportement des bâtiments, d&amp;rsquo;en faire des prédiction ou de le caractériser (via résolution inverses, analyse de sensibilité&amp;hellip;).&lt;/p&gt;
+&lt;p&gt;Ces dernières méthodes nécessitent un nombre plus ou moins importants de simulations, effectués en changeant un ensemble restreint de paramètres.&lt;/p&gt;
+&lt;p&gt;Malheureusement, Energy Plus n&amp;rsquo;a pas été construit dans cette optique, et des précautions doivent être prises dès lors qu&amp;rsquo;il est nécessaire de lancer plusieurs simulations en parallèles.&lt;/p&gt;
+&lt;p&gt;Energy⁺ wrapper est une librairie permettant d&amp;rsquo;interfacer Energy⁺ à des scripts python. De cette façon, il est facile de lancer un nombre important de simulations, de récupérer et d&amp;rsquo;analyser les résultats obtenus. Elle a été écrite de façon à être multiprocess-safe, et la résolution de multiples simulations en parallèle est directement intégré à l&amp;rsquo;outil.&lt;/p&gt;
+&lt;p&gt;Sa 
+&lt;a href=&#34;https://github.com/locie/energy_plus_wrapper/tree/full_rework&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dernière version&lt;/a&gt; est une refonte complète, amenant (entre autre) une gestion intégré du lancement de simulation en parallèle via la librairie [joblib]. Cela donne accès à un choix élargie de backend de parallélisation incluant un backend de calcul distribué : il est alors possible, en quelques ligne de code, de lancer les calculs sur différentes machine d&amp;rsquo;un même réseau.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

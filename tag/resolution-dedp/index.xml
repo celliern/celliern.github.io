@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>résolution d&#39;EDP | N. Cellier</title>
+    <link>https://celliern.github.io/tag/resolution-dedp/</link>
+      <atom:link href="https://celliern.github.io/tag/resolution-dedp/index.xml" rel="self" type="application/rss+xml" />
+    <description>résolution d&#39;EDP</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr-fr</language><lastBuildDate>Sun, 24 May 2020 12:13:25 +0200</lastBuildDate>
+    <image>
+      <url>https://celliern.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>résolution d&#39;EDP</title>
+      <link>https://celliern.github.io/tag/resolution-dedp/</link>
+    </image>
+    
+    <item>
+      <title>Scikit Fdiff</title>
+      <link>https://celliern.github.io/project/scikit-fdiff/</link>
+      <pubDate>Sun, 24 May 2020 12:13:25 +0200</pubDate>
+      <guid>https://celliern.github.io/project/scikit-fdiff/</guid>
+      <description>&lt;p&gt;&lt;code&gt;scikit-fdiff&lt;/code&gt; est une librairie Python dont l&amp;rsquo;objectif est de rendre accessible la résolution d&amp;rsquo;équations aux dérivées partielles.&lt;/p&gt;
+&lt;p&gt;Son développement à commencé durant mon projet de doctorat (2016), et la librairie s&amp;rsquo;appelait alors &lt;code&gt;triflow&lt;/code&gt;. C&amp;rsquo;était alors un outil interne dédié à la résolution d&amp;rsquo;équations type Shallow-Water utilisé pour modéliser des films ruisselants.&lt;/p&gt;
+&lt;p&gt;Au fur et à mesure de son développement, son champs d&amp;rsquo;application s&amp;rsquo;est élargie pour devenir un outil permettant la résolution de système de PDE arbitraires, capable de modéliser un nombre arbitraire d&amp;rsquo;équations et de dimensions.&lt;/p&gt;
+&lt;p&gt;L&amp;rsquo;outil se fonde sur la méthode des lignes, dans laquelle les dérivées spatiales sont discrétisés dans un premier temps. Le système d&amp;rsquo;équations différentiels ordinaire alors obtenu est résolu en utilisant des algorithmes dédiés, dont les plus connus sont les méthodes d&amp;rsquo;Euler ou les méthodes Runge-Kutta.&lt;/p&gt;
+&lt;p&gt;La spécificité de &lt;code&gt;scikit-fdiff&lt;/code&gt; est d&amp;rsquo;automatiser la discrétisation spatiale, permettant une écriture du modèle sous une forme aussi proche que possible de l&amp;rsquo;écriture mathématique du modèle physique. Le schéma de discrétisation (en différence fini) est automatiquement appliqué via calcul formel. La jacobienne est calculé analytiquement, donnant accès aux méthodes implicites. Cela permet la résolution de modèles fortement non-linéaires.&lt;/p&gt;
+&lt;p&gt;Ces caractéristiques font de &lt;code&gt;scikit-fdiff&lt;/code&gt; une librairie particulièrement adapté au prototypage de modèles : s&amp;rsquo;il sera rarement le meilleur outil pour un modèle en particulier, il sera capable de gérer une grande majorité de systèmes d&amp;rsquo;équations.&lt;/p&gt;
+&lt;p&gt;Le développement est actif, et la librairie a été publié dans JOSS (Journal of open source software) [^CellierJoss2019].&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
