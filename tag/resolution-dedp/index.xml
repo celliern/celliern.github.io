@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>résolution d&#39;EDP | N. Cellier</title>
-    <link>https://celliern.github.io/tag/resolution-dedp/</link>
-      <atom:link href="https://celliern.github.io/tag/resolution-dedp/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://celliern.io/tag/resolution-dedp/</link>
+      <atom:link href="https://celliern.io/tag/resolution-dedp/index.xml" rel="self" type="application/rss+xml" />
     <description>résolution d&#39;EDP</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr-fr</language><lastBuildDate>Sun, 24 May 2020 12:13:25 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Sun, 24 May 2020 12:13:25 +0200</lastBuildDate>
     <image>
-      <url>https://celliern.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://celliern.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>résolution d&#39;EDP</title>
-      <link>https://celliern.github.io/tag/resolution-dedp/</link>
+      <link>https://celliern.io/tag/resolution-dedp/</link>
     </image>
     
     <item>
       <title>Scikit Fdiff</title>
-      <link>https://celliern.github.io/project/scikit-fdiff/</link>
+      <link>https://celliern.io/project/scikit-fdiff/</link>
       <pubDate>Sun, 24 May 2020 12:13:25 +0200</pubDate>
-      <guid>https://celliern.github.io/project/scikit-fdiff/</guid>
+      <guid>https://celliern.io/project/scikit-fdiff/</guid>
       <description>&lt;p&gt;&lt;code&gt;scikit-fdiff&lt;/code&gt; est une librairie Python dont l&amp;rsquo;objectif est de rendre accessible la résolution d&amp;rsquo;équations aux dérivées partielles.&lt;/p&gt;
 &lt;p&gt;Son développement à commencé durant mon projet de doctorat (2016), et la librairie s&amp;rsquo;appelait alors &lt;code&gt;triflow&lt;/code&gt;. C&amp;rsquo;était alors un outil interne dédié à la résolution d&amp;rsquo;équations type Shallow-Water utilisé pour modéliser des films ruisselants.&lt;/p&gt;
 &lt;p&gt;Au fur et à mesure de son développement, son champs d&amp;rsquo;application s&amp;rsquo;est élargie pour devenir un outil permettant la résolution de système de PDE arbitraires, capable de modéliser un nombre arbitraire d&amp;rsquo;équations et de dimensions.&lt;/p&gt;

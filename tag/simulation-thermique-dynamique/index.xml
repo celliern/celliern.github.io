@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>simulation thermique dynamique | N. Cellier</title>
-    <link>https://celliern.github.io/tag/simulation-thermique-dynamique/</link>
-      <atom:link href="https://celliern.github.io/tag/simulation-thermique-dynamique/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://celliern.io/tag/simulation-thermique-dynamique/</link>
+      <atom:link href="https://celliern.io/tag/simulation-thermique-dynamique/index.xml" rel="self" type="application/rss+xml" />
     <description>simulation thermique dynamique</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr-fr</language><lastBuildDate>Sun, 24 May 2020 12:13:48 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Sun, 24 May 2020 12:13:48 +0200</lastBuildDate>
     <image>
-      <url>https://celliern.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://celliern.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>simulation thermique dynamique</title>
-      <link>https://celliern.github.io/tag/simulation-thermique-dynamique/</link>
+      <link>https://celliern.io/tag/simulation-thermique-dynamique/</link>
     </image>
     
     <item>
       <title>Eplus Wrapper</title>
-      <link>https://celliern.github.io/project/eplus-wrapper/</link>
+      <link>https://celliern.io/project/eplus-wrapper/</link>
       <pubDate>Sun, 24 May 2020 12:13:48 +0200</pubDate>
-      <guid>https://celliern.github.io/project/eplus-wrapper/</guid>
+      <guid>https://celliern.io/project/eplus-wrapper/</guid>
       <description>&lt;p&gt;Energy Plus est un logiciel de simulation dynamique du bâtiment, capable de prendre en compte les phénomènes thermique, hydrique et aérolique prenant place dans un habitat. Il donne accès à une résolution temporelle à l&amp;rsquo;échelle de quelques jours, mois ou même années. C&amp;rsquo;est un outil précieux permettant d&amp;rsquo;affiner notre compréhension du comportement des bâtiments, d&amp;rsquo;en faire des prédiction ou de le caractériser (via résolution inverses, analyse de sensibilité&amp;hellip;).&lt;/p&gt;
 &lt;p&gt;Ces dernières méthodes nécessitent un nombre plus ou moins importants de simulations, effectués en changeant un ensemble restreint de paramètres.&lt;/p&gt;
 &lt;p&gt;Malheureusement, Energy Plus n&amp;rsquo;a pas été construit dans cette optique, et des précautions doivent être prises dès lors qu&amp;rsquo;il est nécessaire de lancer plusieurs simulations en parallèles.&lt;/p&gt;

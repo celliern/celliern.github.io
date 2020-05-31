@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>analyse de sensibilité | N. Cellier</title>
-    <link>https://celliern.github.io/tag/analyse-de-sensibilite/</link>
-      <atom:link href="https://celliern.github.io/tag/analyse-de-sensibilite/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://celliern.io/tag/analyse-de-sensibilite/</link>
+      <atom:link href="https://celliern.io/tag/analyse-de-sensibilite/index.xml" rel="self" type="application/rss+xml" />
     <description>analyse de sensibilité</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr-fr</language><lastBuildDate>Sun, 24 May 2020 12:21:07 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Sun, 24 May 2020 12:21:07 +0200</lastBuildDate>
     <image>
-      <url>https://celliern.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://celliern.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>analyse de sensibilité</title>
-      <link>https://celliern.github.io/tag/analyse-de-sensibilite/</link>
+      <link>https://celliern.io/tag/analyse-de-sensibilite/</link>
     </image>
     
     <item>
       <title>Modelxplore</title>
-      <link>https://celliern.github.io/project/modelxplore/</link>
+      <link>https://celliern.io/project/modelxplore/</link>
       <pubDate>Sun, 24 May 2020 12:21:07 +0200</pubDate>
-      <guid>https://celliern.github.io/project/modelxplore/</guid>
+      <guid>https://celliern.io/project/modelxplore/</guid>
       <description>&lt;p&gt;ModelXplore est un petit projet qui n&amp;rsquo;est pas destiné à être utilisé en production. C&amp;rsquo;est une preuve de concept, montrant les possibilité d&amp;rsquo;une utilisation de meta-modèles couplé à de l&amp;rsquo;analyse de sensibilité.&lt;/p&gt;
 </description>
     </item>

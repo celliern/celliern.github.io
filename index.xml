@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>N. Cellier</title>
-    <link>https://celliern.github.io/</link>
-      <atom:link href="https://celliern.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://celliern.io/</link>
+      <atom:link href="https://celliern.io/index.xml" rel="self" type="application/rss+xml" />
     <description>N. Cellier</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr-fr</language><lastBuildDate>Sun, 24 May 2020 12:23:35 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Sun, 24 May 2020 12:23:35 +0200</lastBuildDate>
     <image>
-      <url>https://celliern.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://celliern.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>N. Cellier</title>
-      <link>https://celliern.github.io/</link>
+      <link>https://celliern.io/</link>
     </image>
     
     <item>
       <title>Ilotgen</title>
-      <link>https://celliern.github.io/project/ilotgen/</link>
+      <link>https://celliern.io/project/ilotgen/</link>
       <pubDate>Sun, 24 May 2020 12:23:35 +0200</pubDate>
-      <guid>https://celliern.github.io/project/ilotgen/</guid>
+      <guid>https://celliern.io/project/ilotgen/</guid>
       <description>&lt;p&gt;Projet de bio-informatique sous embargo - détection d&amp;rsquo;ilot mobiles via le traitement de bases de données disponible dans la littérature.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Hdtm</title>
-      <link>https://celliern.github.io/project/hdtm/</link>
+      <link>https://celliern.io/project/hdtm/</link>
       <pubDate>Sun, 24 May 2020 12:23:26 +0200</pubDate>
-      <guid>https://celliern.github.io/project/hdtm/</guid>
+      <guid>https://celliern.io/project/hdtm/</guid>
       <description>&lt;p&gt;Projet de bio-informatique sous embargo - analyse de reads de séquence génomique.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Modelxplore</title>
-      <link>https://celliern.github.io/project/modelxplore/</link>
+      <link>https://celliern.io/project/modelxplore/</link>
       <pubDate>Sun, 24 May 2020 12:21:07 +0200</pubDate>
-      <guid>https://celliern.github.io/project/modelxplore/</guid>
+      <guid>https://celliern.io/project/modelxplore/</guid>
       <description>&lt;p&gt;ModelXplore est un petit projet qui n&amp;rsquo;est pas destiné à être utilisé en production. C&amp;rsquo;est une preuve de concept, montrant les possibilité d&amp;rsquo;une utilisation de meta-modèles couplé à de l&amp;rsquo;analyse de sensibilité.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Eplus Wrapper</title>
-      <link>https://celliern.github.io/project/eplus-wrapper/</link>
+      <link>https://celliern.io/project/eplus-wrapper/</link>
       <pubDate>Sun, 24 May 2020 12:13:48 +0200</pubDate>
-      <guid>https://celliern.github.io/project/eplus-wrapper/</guid>
+      <guid>https://celliern.io/project/eplus-wrapper/</guid>
       <description>&lt;p&gt;Energy Plus est un logiciel de simulation dynamique du bâtiment, capable de prendre en compte les phénomènes thermique, hydrique et aérolique prenant place dans un habitat. Il donne accès à une résolution temporelle à l&amp;rsquo;échelle de quelques jours, mois ou même années. C&amp;rsquo;est un outil précieux permettant d&amp;rsquo;affiner notre compréhension du comportement des bâtiments, d&amp;rsquo;en faire des prédiction ou de le caractériser (via résolution inverses, analyse de sensibilité&amp;hellip;).&lt;/p&gt;
 &lt;p&gt;Ces dernières méthodes nécessitent un nombre plus ou moins importants de simulations, effectués en changeant un ensemble restreint de paramètres.&lt;/p&gt;
 &lt;p&gt;Malheureusement, Energy Plus n&amp;rsquo;a pas été construit dans cette optique, et des précautions doivent être prises dès lors qu&amp;rsquo;il est nécessaire de lancer plusieurs simulations en parallèles.&lt;/p&gt;
@@ -55,9 +55,9 @@
     
     <item>
       <title>Scikit Fdiff</title>
-      <link>https://celliern.github.io/project/scikit-fdiff/</link>
+      <link>https://celliern.io/project/scikit-fdiff/</link>
       <pubDate>Sun, 24 May 2020 12:13:25 +0200</pubDate>
-      <guid>https://celliern.github.io/project/scikit-fdiff/</guid>
+      <guid>https://celliern.io/project/scikit-fdiff/</guid>
       <description>&lt;p&gt;&lt;code&gt;scikit-fdiff&lt;/code&gt; est une librairie Python dont l&amp;rsquo;objectif est de rendre accessible la résolution d&amp;rsquo;équations aux dérivées partielles.&lt;/p&gt;
 &lt;p&gt;Son développement à commencé durant mon projet de doctorat (2016), et la librairie s&amp;rsquo;appelait alors &lt;code&gt;triflow&lt;/code&gt;. C&amp;rsquo;était alors un outil interne dédié à la résolution d&amp;rsquo;équations type Shallow-Water utilisé pour modéliser des films ruisselants.&lt;/p&gt;
 &lt;p&gt;Au fur et à mesure de son développement, son champs d&amp;rsquo;application s&amp;rsquo;est élargie pour devenir un outil permettant la résolution de système de PDE arbitraires, capable de modéliser un nombre arbitraire d&amp;rsquo;équations et de dimensions.&lt;/p&gt;
@@ -70,81 +70,81 @@
     
     <item>
       <title>A New Family of Reduced Models for Non-Isothermal Falling Films</title>
-      <link>https://celliern.github.io/publication/cellier-hal-02421436/</link>
+      <link>https://celliern.io/publication/cellier-hal-02421436/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://celliern.github.io/publication/cellier-hal-02421436/</guid>
+      <guid>https://celliern.io/publication/cellier-hal-02421436/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Augmented Skew-Symetric System for Shallow-Water System with Surface Tension Allowing Large Gradient of Density</title>
-      <link>https://celliern.github.io/publication/bresch-2019/</link>
+      <link>https://celliern.io/publication/bresch-2019/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://celliern.github.io/publication/bresch-2019/</guid>
+      <guid>https://celliern.io/publication/bresch-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scikit-Finite-Diff, a New Tool for PDE Solving</title>
-      <link>https://celliern.github.io/publication/cellier-2019-a/</link>
+      <link>https://celliern.io/publication/cellier-2019-a/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://celliern.github.io/publication/cellier-2019-a/</guid>
+      <guid>https://celliern.io/publication/cellier-2019-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scikit-Finite-Diff, a New Tool for PDE Solving</title>
-      <link>https://celliern.github.io/publication/cellier-2019-b/</link>
+      <link>https://celliern.io/publication/cellier-2019-b/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://celliern.github.io/publication/cellier-2019-b/</guid>
+      <guid>https://celliern.io/publication/cellier-2019-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nouvel outil de prototypage d&#39;équations différentielles, application aux modèles de films</title>
-      <link>https://celliern.github.io/publication/cellier-2019/</link>
+      <link>https://celliern.io/publication/cellier-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://celliern.github.io/publication/cellier-2019/</guid>
+      <guid>https://celliern.io/publication/cellier-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimisation d&#39;échangeurs de chaleur à films ruisselants. - Modélisation haute performance d&#39;un film liquide chauffé en écoulement.</title>
-      <link>https://celliern.github.io/publication/cellier-2018-a/</link>
+      <link>https://celliern.io/publication/cellier-2018-a/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://celliern.github.io/publication/cellier-2018-a/</guid>
+      <guid>https://celliern.io/publication/cellier-2018-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimisation d&#39;échangeurs à Films Ruisselants</title>
-      <link>https://celliern.github.io/publication/cellier-2018/</link>
+      <link>https://celliern.io/publication/cellier-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://celliern.github.io/publication/cellier-2018/</guid>
+      <guid>https://celliern.io/publication/cellier-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Triflow - A Python Library for Prototyping Coupled Nonlinear PDEs - Application to Heat Transfer in Falling Films.</title>
-      <link>https://celliern.github.io/publication/cellier-2018-b/</link>
+      <link>https://celliern.io/publication/cellier-2018-b/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://celliern.github.io/publication/cellier-2018-b/</guid>
+      <guid>https://celliern.io/publication/cellier-2018-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thermal Falling Film Modelling, Validation and Exploration</title>
-      <link>https://celliern.github.io/publication/cellier-2017/</link>
+      <link>https://celliern.io/publication/cellier-2017/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://celliern.github.io/publication/cellier-2017/</guid>
+      <guid>https://celliern.io/publication/cellier-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Instabilités Hydrodynamique et Thermocapillaire d&#39;un Film Liquide Tombant à Grand Nombre de Péclet</title>
-      <link>https://celliern.github.io/publication/ruyer-quil-2015/</link>
+      <link>https://celliern.io/publication/ruyer-quil-2015/</link>
       <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
-      <guid>https://celliern.github.io/publication/ruyer-quil-2015/</guid>
+      <guid>https://celliern.io/publication/ruyer-quil-2015/</guid>
       <description></description>
     </item>
     

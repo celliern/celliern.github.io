@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>bio-informatique | N. Cellier</title>
-    <link>https://celliern.github.io/tag/bio-informatique/</link>
-      <atom:link href="https://celliern.github.io/tag/bio-informatique/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://celliern.io/tag/bio-informatique/</link>
+      <atom:link href="https://celliern.io/tag/bio-informatique/index.xml" rel="self" type="application/rss+xml" />
     <description>bio-informatique</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr-fr</language><lastBuildDate>Sun, 24 May 2020 12:23:35 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Sun, 24 May 2020 12:23:35 +0200</lastBuildDate>
     <image>
-      <url>https://celliern.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://celliern.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>bio-informatique</title>
-      <link>https://celliern.github.io/tag/bio-informatique/</link>
+      <link>https://celliern.io/tag/bio-informatique/</link>
     </image>
     
     <item>
       <title>Ilotgen</title>
-      <link>https://celliern.github.io/project/ilotgen/</link>
+      <link>https://celliern.io/project/ilotgen/</link>
       <pubDate>Sun, 24 May 2020 12:23:35 +0200</pubDate>
-      <guid>https://celliern.github.io/project/ilotgen/</guid>
+      <guid>https://celliern.io/project/ilotgen/</guid>
       <description>&lt;p&gt;Projet de bio-informatique sous embargo - détection d&amp;rsquo;ilot mobiles via le traitement de bases de données disponible dans la littérature.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Hdtm</title>
-      <link>https://celliern.github.io/project/hdtm/</link>
+      <link>https://celliern.io/project/hdtm/</link>
       <pubDate>Sun, 24 May 2020 12:23:26 +0200</pubDate>
-      <guid>https://celliern.github.io/project/hdtm/</guid>
+      <guid>https://celliern.io/project/hdtm/</guid>
       <description>&lt;p&gt;Projet de bio-informatique sous embargo - analyse de reads de séquence génomique.&lt;/p&gt;
 </description>
     </item>
